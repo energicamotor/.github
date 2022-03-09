@@ -1,8 +1,8 @@
 &nbsp;
 ------
 &nbsp;
-### Listing of `repositories`: https://github.com/energicamotor/Repositories 
-### Listing of `active issues`: https://github.com/issues?user=energicamotor
+### `Repositories`: https://github.com/energicamotor/Repositories 
+### `Active issues`: https://github.com/issues?user=energicamotor
 &nbsp;
 ------
 #### List of commands 
